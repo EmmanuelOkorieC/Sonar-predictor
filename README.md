@@ -22,7 +22,7 @@ Built with:
 - `Sonar.py` – Main Streamlit app
 - `model.pkl` – Trained logistic regression model
 - `train_model.py` - Script to train the logistic regression model and save it as `model.pkl`
-- 'sonar_data.csv' - Sonar Data used for training the Model. Available on [UCI ML Reository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks))
+- `sonar_data.csv` - Sonar Data used for training the Model. Available on [UCI ML Reository](https://archive.ics.uci.edu/ml/datasets/Connectionist+Bench+(Sonar,+Mines+vs.+Rocks))
 - `requirements.txt` – Python dependencies
 
 ---
